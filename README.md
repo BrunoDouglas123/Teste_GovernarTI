@@ -13,4 +13,4 @@ Endpoint para Execução de documentação com Swagger
 
 
 Cada Entidade possui testes unitarios e testes de integração
-#Para execução dos testes,clique na classe Java,/Run As/Junit Test.
+#Para execução dos testes,clique na classe Java/Run As/Junit Test.
