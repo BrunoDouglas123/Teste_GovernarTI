@@ -38,8 +38,6 @@ public class Circuit {
 	
 	@Column(name = "url", length = 90, nullable = false)
 	private String url;
-	
-	
 
 	@JsonIgnore
 	@OneToMany(mappedBy = "circuit")
